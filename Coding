@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.luarmor.lat/files/v4/loaders/19e15fd79b45aff72c6a52c4c511c6e6058d281cfa635fc81b6356fae2b0d1d7.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/chocolascript-glitch/Chocola-Auto-Accept/refs/heads/main/.lua"))()
